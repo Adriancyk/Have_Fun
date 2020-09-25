@@ -1,0 +1,14 @@
+﻿  Timber.cpp
+G:\Dropbox\Linux_workspace\VS Projects\Timber\Timber.cpp(244,51): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+G:\Dropbox\Linux_workspace\VS Projects\Timber\Timber.cpp(264,51): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+G:\Dropbox\Linux_workspace\VS Projects\Timber\Timber.cpp(310,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\Dropbox\Linux_workspace\VS Projects\Timber\Timber.cpp(313,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+G:\Dropbox\Linux_workspace\VS Projects\Timber\Timber.cpp(335,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\Dropbox\Linux_workspace\VS Projects\Timber\Timber.cpp(338,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+G:\Dropbox\Linux_workspace\VS Projects\Timber\Timber.cpp(358,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\Dropbox\Linux_workspace\VS Projects\Timber\Timber.cpp(361,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+G:\Dropbox\Linux_workspace\VS Projects\Timber\Timber.cpp(375,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\Dropbox\Linux_workspace\VS Projects\Timber\Timber.cpp(378,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+G:\Dropbox\Linux_workspace\VS Projects\Timber\Timber.cpp(396,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+G:\Dropbox\Linux_workspace\VS Projects\Timber\Timber.cpp(414,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Timber.vcxproj -> G:\Dropbox\Linux_workspace\VS Projects\Timber\Debug\Timber.exe
