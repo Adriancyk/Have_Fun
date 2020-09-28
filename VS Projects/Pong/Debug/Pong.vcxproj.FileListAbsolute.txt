@@ -1,0 +1,2 @@
+G:\Dropbox\Linux_workspace\VS Projects\Pong\Debug\Pong.exe
+G:\Dropbox\Linux_workspace\VS Projects\Pong\Debug\Pong.pdb
