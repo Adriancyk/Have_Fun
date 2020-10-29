@@ -1,0 +1,27 @@
+﻿  ZombieArena.cpp
+G:\Dropbox\Linux_workspace\VS Projects\Zombie Arena\ZombieArena.cpp(24,47): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+G:\Dropbox\Linux_workspace\VS Projects\Zombie Arena\ZombieArena.cpp(25,47): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+G:\Dropbox\Linux_workspace\VS Projects\Zombie Arena\ZombieArena.cpp(26,59): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+G:\Dropbox\Linux_workspace\VS Projects\Zombie Arena\ZombieArena.cpp(26,45): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+G:\Dropbox\Linux_workspace\VS Projects\Zombie Arena\ZombieArena.cpp(505,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Zombie Arena.vcxproj -> G:\Dropbox\Linux_workspace\VS Projects\Zombie Arena\Debug\Zombie Arena.exe

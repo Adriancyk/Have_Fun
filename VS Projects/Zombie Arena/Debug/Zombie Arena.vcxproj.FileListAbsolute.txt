@@ -1,0 +1,2 @@
+G:\Dropbox\Linux_workspace\VS Projects\Zombie Arena\Debug\Zombie Arena.exe
+G:\Dropbox\Linux_workspace\VS Projects\Zombie Arena\Debug\Zombie Arena.pdb
