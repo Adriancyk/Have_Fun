@@ -6,7 +6,7 @@ Simple console game repo. Please follow the steps below to setup the project.
 
 Install **Visual Studio 2019**.
 
-Install **SFML Toolbox** using this [link](https://www.sfml-dev.org/download.php), or you can use the SFML code in SFML folder in this repo.
+Install **SFML Toolbox** using this [link](https://www.sfml-dev.org/download.php), or you can use the SFML code in SFML-2.5.1 folder in this repo.
 
 Open the project in VS 2019.
 
